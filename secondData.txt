@@ -1,4 +1,4 @@
 A Data: 15
 B Data: 25
 C Data: 45
-D Data: 65
+D Data: 75
